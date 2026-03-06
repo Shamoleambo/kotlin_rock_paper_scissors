@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RockPaperScissors"
 include(":app")
+include(":rockPaperScissors")
